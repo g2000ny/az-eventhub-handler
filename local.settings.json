@@ -1,0 +1,21 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "EventHubNamespace_": 
+    "Endpoint=sb://  testeha.servicebus.  windows.net/;       SharedAccessKeyName=RootManageSharedAccessKey;
+    SharedAccessKey =zCLvAcSK71D2Ptrin0N5BQY6BxN9V8DdP+AEhDMrFf8=;   EntityPath=event-hub-0",
+    "EventHubInstance": "event-hub-1",
+    "EventHubNamespace_lodl": "Endpoint=sb://  testeha.servicebus.windows.net/;     
+    SharedAccessKeyName= event-hub-0-policy;
+    
+    SharedAccessKey= BMqaRFFRmFsafC4UWKJlEIMgG3ByLMJQ7+AEhEQgnbM=  ;  EntityPath=event-hub-1",
+    "EventHubNamespace": "Endpoint=sb://testeha.servicebus.windows.net/;
+    SharedAccessKeyName=AllAccess;SharedAccessKey=pejUfbYAU3BI0autT74x85ILOdUikccfC+AEhCyi/l8=;
+    EntityPath=event-hub-1"
+  
+  }
+}
+
